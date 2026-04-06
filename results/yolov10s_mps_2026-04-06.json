@@ -1,0 +1,13 @@
+{
+  "model": "yolov10s",
+  "device": "mps",
+  "platform_info": "{\"system\": \"Darwin\", \"machine\": \"arm64\", \"processor\": \"arm\", \"python\": \"3.11.15\", \"pytorch\": \"2.11.0\", \"mps_available\": true, \"onnxruntime\": \"1.24.4\"}",
+  "latency_ms_mean": 17.2093417002543,
+  "latency_ms_std": 0.5089783965514527,
+  "latency_ms_p95": 18.196075150171964,
+  "peak_ram_mb": 509.390625,
+  "fps": 58.10797515777278,
+  "accuracy": null,
+  "num_runs": 10,
+  "timestamp": "2026-04-06T21:55:21.354022+00:00"
+}

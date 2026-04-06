@@ -1,0 +1,13 @@
+{
+  "model": "slowfast_r50",
+  "device": "mps",
+  "platform_info": "{\"system\": \"Darwin\", \"machine\": \"arm64\", \"processor\": \"arm\", \"python\": \"3.11.15\", \"pytorch\": \"2.11.0\", \"mps_available\": true, \"onnxruntime\": \"1.24.4\"}",
+  "latency_ms_mean": 149.38346660037496,
+  "latency_ms_std": 4.133510908568181,
+  "latency_ms_p95": 156.0274645512436,
+  "peak_ram_mb": 821.34375,
+  "fps": 6.694181242126095,
+  "accuracy": null,
+  "num_runs": 10,
+  "timestamp": "2026-04-06T21:57:51.355485+00:00"
+}

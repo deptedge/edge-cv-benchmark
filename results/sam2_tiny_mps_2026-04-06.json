@@ -1,0 +1,13 @@
+{
+  "model": "sam2_tiny",
+  "device": "mps",
+  "platform_info": "{\"system\": \"Darwin\", \"machine\": \"arm64\", \"processor\": \"arm\", \"python\": \"3.11.15\", \"pytorch\": \"2.11.0\", \"mps_available\": true, \"onnxruntime\": \"1.24.4\"}",
+  "latency_ms_mean": 654.900787599945,
+  "latency_ms_std": 4.7769873738044835,
+  "latency_ms_p95": 661.3514249995205,
+  "peak_ram_mb": 704.75,
+  "fps": 1.5269488431442588,
+  "accuracy": null,
+  "num_runs": 10,
+  "timestamp": "2026-04-06T21:56:55.114884+00:00"
+}
